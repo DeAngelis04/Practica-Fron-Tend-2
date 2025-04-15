@@ -23,7 +23,7 @@ Se trabajó en centrar el contenido, estilizar enlaces, y aplicar diseño modern
 
 ## 📸 Vista previa
 
-![Vista previa del proyecto](./preview.jpg)
+redesangelis.netlify.app
 
 ## ✨ Autor
 
